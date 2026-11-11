@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Joke</string>
+
+    <!-- Laboratorio original -->
+    <string name="question">What is the secret of comedy?</string>
+    <string name="response">Timing!</string>
+
+    <!-- Extension: contexto academico -->
+    <string name="btn_calificacion">Enviar calificacion al estudiante</string>
+    <string name="calif_title">Calificacion publicada</string>
+    <string name="calif_text">Tu Taller 3 de Convergentes fue calificado: 4.5 / 5.0</string>
+
+    <string name="btn_entrega">Notificar entrega al docente</string>
+    <string name="entrega_title">Nueva entrega recibida</string>
+    <string name="entrega_text">El estudiante Diego Betancur entrego el Taller 3. Pendiente de calificar.</string>
+
+    <string name="hint_wait">La notificacion aparece 10 segundos despues de pulsar el boton.</string>
+</resources>
